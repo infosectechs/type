@@ -1,0 +1,2 @@
+# type
+Html Yazı Örneği
